@@ -66,7 +66,7 @@ phonepe-dashboard/
 
 ## 👨‍💻 Author
 
-**Somesh**
+**Somesh Verma**
 
 ---
 
