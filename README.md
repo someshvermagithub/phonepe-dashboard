@@ -21,9 +21,7 @@ An interactive **PhonePe-inspired payment analytics dashboard** built using **Po
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](./assets/dashboard.png)
 
 ---
 
