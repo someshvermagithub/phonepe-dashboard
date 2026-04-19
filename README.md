@@ -29,7 +29,8 @@ An interactive **PhonePe-inspired payment analytics dashboard** built using **Po
 
 ## 🌐 Live Dashboard
 
-👉 [View Interactive Dashboard](https://your-powerbi-link)
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJiN2Q1NDEtNWQ0NC00ZDVlLWIxYWMtM2I2YWJiOWFlZGY0IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+)
 
 ---
 
